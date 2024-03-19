@@ -16,6 +16,28 @@ Fitur utama:
 
 Dengan modul gaming ROG PRO V1.0, tingkatkan pengalaman bermain game Anda menjadi lebih seru dan responsif. Segera mulai jelajahi dan gunakan modul ini untuk meningkatkan kualitas gaming Anda!
 
+### Instaling Termux
+```bash
+pkg update && pkg upgrade
+```
+
+```bash
+pkg install git -y
+```
+```bash
+git clone https://github.com/Kztutorial99/GameDev
+```
+
+```bash
+cd GameDev
+```
+```bash
+chmod +x *
+```
+```bash
+./ install.sh
+```
+
 ### Preview
 ![](preview.png)
 
