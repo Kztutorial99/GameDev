@@ -1,4 +1,5 @@
-GameDev ROG PRO V1.0! 
+GameDev ROG PRO V1.0!
+
 Modul gaming yang dioptimalkan khusus untuk meningkatkan pengalaman bermain game Anda di perangkat Android. Dibangun dengan fokus pada kinerja yang optimal dan fitur keren, modul ini dirancang untuk mendukung permainan favorit Anda dengan menggunakan teknologi terkini.
 
 Fitur utama:
