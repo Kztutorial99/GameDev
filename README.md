@@ -15,3 +15,7 @@ Fitur utama:
 - Non Root Modul Ini Tanpa Root
 
 Dengan modul gaming ROG PRO V1.0, tingkatkan pengalaman bermain game Anda menjadi lebih seru dan responsif. Segera mulai jelajahi dan gunakan modul ini untuk meningkatkan kualitas gaming Anda!
+
+### Preview
+![](preview.png)
+
